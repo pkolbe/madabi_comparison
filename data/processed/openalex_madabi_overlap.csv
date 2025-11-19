@@ -1,0 +1,172 @@
+DOI,Title,Creators
+10.5281/zenodo.3946462,TaxGraph - A Knowledge Graph of Multi-National Companies and their Relationships,Niklas Lüdemann; Ageda Shiba; Nikolaos Thymianis; Nicolas Heist; Christopher Ludwig; Heiko Paulheim
+10.5281/zenodo.1320042,Rdf2Vec Dbpedia Page Rank Split Embeddings,Michael Cochez; Petar Ristoski; Simone Paulo Ponzetto; Heiko Paulheim
+10.5281/zenodo.1318146,Rdf2Vec Dbpedia Uniform Embeddings,Michael Cochez; Petar Ristoski; Simone Paulo Ponzetto; Heiko Paulheim
+10.5281/zenodo.1320159,Kglove Dbpedia Inverse Predicate Object Frequency Embeddings,Michael Cochez; Petar Ristoski; Simone Paulo Ponzetto; Heiko Paulheim
+10.5281/zenodo.1320030,Kglove Dbpedia Inverse Page Rank Embeddings,Michael Cochez; Petar Ristoski; Simone Paulo Ponzetto; Heiko Paulheim
+10.5281/zenodo.1320165,Kglove Dbpedia Object Frequency Embeddings,Michael Cochez; Petar Ristoski; Simone Paulo Ponzetto; Heiko Paulheim
+10.5281/zenodo.1320032,KGloVe DBpedia inverse Page Rank split embeddings,Michael Cochez; Petar Ristoski; Simone Paulo Ponzetto; Heiko Paulheim
+10.5281/zenodo.8422037,SOTAB V2 for SemTab 2023,Keti Korini; Ralph Peeters; Christian Bizer
+10.5281/zenodo.1320810,Rdf2Vec Dbpedia Inverse Page Rank Frequency Embeddings,Michael Cochez; Petar Ristoski; Simone Paulo Ponzetto; Heiko Paulheim
+10.5281/zenodo.1320148,KGloVe DBpedia uniform embeddings,Michael Cochez; Petar Ristoski; Simone Paulo Ponzetto; Heiko Paulheim
+10.5281/zenodo.1320211,RDF2Vec DBpedia predicate object frequency embeddings,Michael Cochez; Petar Ristoski; Simone Paulo Ponzetto; Heiko Paulheim
+10.5281/zenodo.1320150,Kglove Dbpedia Predicate Frequency Embeddings,Michael Cochez; Petar Ristoski; Simone Paulo Ponzetto; Heiko Paulheim
+10.5281/zenodo.1320081,Rdf2Vec Dbpedia Predicate Frequency Embeddings,Michael Cochez; Petar Ristoski; Simone Paulo Ponzetto; Heiko Paulheim
+10.5281/zenodo.1320154,Kglove Dbpedia Predicate Object Frequency Embeddings,Michael Cochez; Petar Ristoski; Simone Paulo Ponzetto; Heiko Paulheim
+10.5281/zenodo.1320013,Rdf2Vec Dbpedia Inverse Predicate Object Frequency Embeddings,Michael Cochez; Petar Ristoski; Simone Paulo Ponzetto; Heiko Paulheim
+10.5281/zenodo.1320152,KGloVe DBpedia inverse predicate frequency embeddings,Michael Cochez; Petar Ristoski; Simone Paulo Ponzetto; Heiko Paulheim
+10.5281/zenodo.1320169,KGloVe DBpedia Page Rank split frequency embeddings,Michael Cochez; Petar Ristoski; Simone Paulo Ponzetto; Heiko Paulheim
+10.5281/zenodo.1320167,Kglove Dbpedia Page Rank Frequency Embeddings,Michael Cochez; Petar Ristoski; Simone Paulo Ponzetto; Heiko Paulheim
+10.5281/zenodo.1320038,RDF2Vec DBpedia Page Rank embeddings,Michael Cochez; Petar Ristoski; Simone Paulo Ponzetto; Heiko Paulheim
+10.5281/zenodo.1320015,RDF2Vec DBpedia object frequency embeddings,Michael Cochez; Petar Ristoski; Simone Paulo Ponzetto; Heiko Paulheim
+10.5281/zenodo.1320007,RDF2Vec DBpedia inverse predicate frequency embeddings,Michael Cochez; Petar Ristoski; Simone Paulo Ponzetto; Heiko Paulheim
+10.5281/zenodo.1320028,Kglove Dbpedia Inverse Object Split Embeddings,Michael Cochez; Petar Ristoski; Simone Paulo Ponzetto; Heiko Paulheim
+10.5281/zenodo.1320001,RDF2Vec DBpedia inverse object frequency embeddings,Michael Cochez; Petar Ristoski; Simone Paulo Ponzetto; Heiko Paulheim
+10.5281/zenodo.1320005,RDF2Vec DBpedia inverse page rank split embeddings,Michael Cochez; Petar Ristoski; Simone Paulo Ponzetto; Heiko Paulheim
+10.5281/zenodo.2017356,RDF2Vec DBpedia uniform embeddings in HDF5 file format,Michael Cochez; Petar Ristoski; Simone Paulo Ponzetto; Heiko Paulheim
+10.5281/zenodo.1320018,KGloVe DBpedia inverse object frequency embeddings,Michael Cochez; Petar Ristoski; Simone Paolo Ponzetto; Heiko Paulheim
+10.5281/zenodo.6962676,Diversity-Driven Unit Test Generation (Data Set),Marcus Kessel; Colin Atkinson
+10.5281/zenodo.6509715,DLCC Gold Standard,Jan Portisch; Heiko Paulheim
+10.5281/zenodo.7777506,"Dataset for Manually Coded Firm Founding Dates, CEO Duality, and CEO Photograph Prominence in Annual Reports",Moritz Appels; Marc Kowalzick
+10.5281/zenodo.3482775,Uncovering the Semantics of Wikipedia Categories - Axioms and Assertions,Nicolas Heist; Heiko Paulheim
+10.5281/zenodo.8208246,Data Set: Promoting Open Science in Test-Driven Software Experiments,Marcus Kessel; Colin Atkinson
+10.5281/zenodo.8068322,CaLiGraph - A Large-Scale Semantic Knowledge Graph compiled from Wikipedia Categories and List Pages,Nicolas Heist; Heiko Paulheim
+10.5281/zenodo.7817022,Gollum: A Gold Standard for Large Scale\\Multi Source Knowledge Graph Matching,Sven Herting; Heiko Paulheim
+10.5281/zenodo.1174041,Improving Hypernymy Extraction with Distributional Semantic Classes,Alexander Panchenko; Dmitry Ustalov; Stefano Faralli; Simone Paolo Ponzetto; Chris Biemann
+10.5281/zenodo.6039372,GeNeG: German News Knowledge Graph,Andreea Iana; Alexander Grote; Kaharina Ludwig; Mehwish Alam; Philipp Müller; Christof Weinhardt; Harald Sack; Heiko Paulheim
+10.5281/zenodo.485151,Unsupervised Does Not Mean Uninterpretable: The Case For Word Sense Induction And Disambiguation,Alexander Panchenko; Eugen Ruppert; Stefano Faralli; Simone Paolo Ponzetto; Chris Biemann
+10.5281/zenodo.7908392,NeMig - A Bilingual News Collection and Knowledge Graph about Migration,Andreea Iana; Mehwish Alam; Alexander Grote; Nevena Nikolajevic; Katharina Ludwig; Philipp Müller; Christof Weinhardt; Heiko Paulheim
+10.5281/zenodo.2621579,Datasets for Watset: Local-Global Graph Clustering with Applications in Sense and Frame Induction,Dmitry Ustalov; Alexander Panchenko; Chris Biemann; Simone Paolo Ponzetto
+10.5281/zenodo.1117228,RUSSE'2018: Human-Annotated Sense-Disambiguated Word Contexts for Russian,Dmitry Ustalov
+10.5281/zenodo.1067701,"Polidoc.net CODEBOOK: National and Regional Manifestos and other Political Documents Collected for the Research Projects ""Representation in Europe: Congruence between Preferences of Elites and Voters"" (REPCONG) and ""The Impact of EU Cohesion Policy on European Identification"" (COHESIFY)",Thomas Bräuninger; Marc Debus; Kenneth Benoit; Julian Bernauer; Polidoc.net Team
+10.5281/zenodo.7776093,The patccat classifier for patent claims - EPO edition,Bernhard Ganglmair; W. Keith Robinson; Michael Seeligson
+10.5281/zenodo.6395308,patccat: A classifier for patent claims,Bernhard Ganglmair; W. Keith Robinson; Michael Seeligson
+10.5281/zenodo.7341310,Interactive Widget – Acceptance of autonomous vehicles dataset exploration,Celina Kacperski; Tobias Vogel; Florian Kutzner
+10.5281/zenodo.7422629,Post-hypnotic suggestion improves confidence and speed of memory access with long-lasting effects,Barbara Schmidt; Justin Böhmer; Martin Schnürch; Sebastian Michelmann; Tobias Koch
+10.5281/zenodo.7506459,Replication package for: How the Other Half Died: Immigration and Mortality in US Cities,Philipp Ager; James Feigenbaum; Casper Worm Hansen; Hui Ren Tan; Danielle T. Williamson
+10.5281/zenodo.4159492,Twenty-two Historical Encyclopedias (Original XML Encoding),Thora Hagen; Erik Ketzan; Fotis Jannidis; Andreas Witt
+10.5281/zenodo.5518208,"Replication package for: Killer Incentives: Rivalry, Performance and Risk-Taking among German Fighter Pilots, 1939-45",Philipp Ager; Leonardo Bursztyn; Lukas Leucht; Hans‐Joachim Voth
+10.5281/zenodo.4554112,Twenty-two Historical Encyclopedias Encoded in TEI: a New Resource for the Digital Humanities,Thora Hagen; Erik Ketzan; Fotis Jannidis; Andreas Witt
+10.5281/zenodo.5598010,Overview of preregistrations in the management and marketing fields,Oliver Eriksson
+10.5281/zenodo.2672882,Picker-routing problem instances,Amir Foroughi; Nils Boysen; Simon Emde; Michael Schneider
+10.5281/zenodo.259352,Data for item-method directed forgetting and working memory capacity study,Ivan Marevic; Nina R. Arnold; Jan Rummel
+10.7910/dvn/a48jp7,Replication Data for: Conceptions of National Identity and Ambivalence towards Immigration,Emmy Lindstam; Matthias Mader; Harald Schoen
+10.7910/dvn/frek34,Replication data for: The strategic nature of compliance: An empirical evaluation of law implementation in the central monitoring system of the EU,Thomas König; Lars Mäder
+10.7910/dvn/khimos,Replication Data for: The Wisdom of Crowds Design for Sensitive Survey Questions,Roni Lehrer; Sebastian Juhl; Thomas Gschwend
+10.7910/dvn/najikb,Replication Data for: The Sensitivity of Spatial Regression Models to Network Misspecification,Sebastian Juhl
+10.7910/dvn/jtksrw,Impacts of increasing community resilience through humanitarian aid in Pakistan,Alexandra Avdeenko; Markus Frölich
+10.7910/dvn/6vya0u,Replication Data for: Everyday Discrimination in Public Spaces: A Field Experiment in the Milan Metro,Johanna Gereke
+10.7910/dvn/0qxypf,"Reproduction files for ""Deliberative Qualities of Generic News Frames""",Eike Mark Rinke
+10.7910/dvn/g0w9mh,Replication Data for Gendered discrimination against immigrants,Johanna Gereke
+10.7910/dvn/3lrafl,Replication Data for: Climate Change Literacy and Migration Potential: Micro-Level Evidence from Africa,Marc Helbling
+10.7910/dvn/w4xwvu,"Replication Data for: Die „Sonntagsfrage“, Soziale Erwünschtheit und die AfD: Wie alternative Messmethoden der Politikwissenschaft Weiterhelfen Können",Thomas Gschwend; Sebastian Juhl; Roni Lehrer
+10.7910/dvn/4lgsoy,"Replication Data for Immigration, Integration and Cooperation: Experimental Evidence from a Public Goods Game in Italy",Johanna Gereke
+10.7910/dvn/eclkvq,"Replication materials for: Schoen, Harald. 2022. Ein halber Regierungswechsel nach einer politischen Achterbahnfahrt. Eine Analyse der öffentlichen Meinung zur vierten Regierung Merkel und des Wahlverhaltens bei der Bundestagswahl 2021, in: R. Zohlnhöfer/F.Engler (eds.), Das Ende der Merkel-Jahre. Wiesbaden: Springer.",Harald Schoen
+10.7910/dvn/3kby7y,"Replication Data for: Maxwell, Helbling, Munzert &amp; Traunmueller: The importance of citizenship for deserving COVID-19 treatment.",Richard Traunmueller
+10.7910/dvn/669z5l,Replication data for: Estimating Party Positions across Countries and Time - A Dynamic Latent Variable Model for Manifesto Data,Thomas König; Moritz Marbach; Moritz Osnabrügge
+10.7910/dvn/dgoqwh,Replication Data for: Spoilers of peace: Pro-government militias as risk factors for conflict recurrence,Sabine C. Carey; Christoph Steinert; Janina Steinert
+10.7910/dvn/oayqa8,Replication Data for: Gender Disparities in Altmetric Attention Scores for Cardiovascular Research,Leo Schmallenbach
+10.7910/dvn/dzryb0,"Replication Data for: Negative campaign statements, coalition heterogeneity, and the support for government parties",Marc Debus; Or Tuttnauer
+10.7910/dvn/jloq6v,"Reproduction files for: Conceptions of national identity, turnout and party preference",Matthias Mader; Maria Pesthy; Harald Schoen
+10.7910/dvn/dq1wfb,Replication Data for: Constructive and Destructive Legislative Review: The Government-Opposition Divide in Parliamentary Oversight,Lion Behrens
+10.7910/dvn/yfgxq3,Replication Data for: Precarious work and challenger parties: how precarity influenced vote choice in the 2018 Italian election,Elisabetta Girardi
+10.7910/dvn/azfhyn,"Replication Data for: Sometimes Less Is More: Censorship, News Falsification, and Disapproval in 1989 East Germany",Christian Gläßel; Katrin Paula
+10.7910/dvn/cgxpf5,"Replication Data for: ""Bilateral or Multilateral? International Financial Flows and the Dirty-Work Hypothesis""",Valentin Lang; Axel Dreher; B. Peter Rosendorff; James Raymond Vreeland
+10.7910/dvn/jqlnct,Replication Data for: 'Bringing the World to the Classroom: Teaching Statistics and Programming in a Project-Based Setting',Cosima Meyer
+10.7910/dvn/fflnyr,"Replication Data for: ""Advocates of Climate Action? The Age of Members of Parliament and their Activity in Legislative Debates on Climate Change""",Marc Debus; Noam Himmelrath
+10.7910/dvn/yy7xbx,Trial fairness before impact: Tracing the link between post-conflict trials and peace stability,Christoph Steinert
+10.7910/dvn/0k34r2,"Replication Data for ""Borders and Bullies: How Borders shape Perceptions of Security and Foreign Policy Preference""",Sabine C. Carey
+10.7910/dvn/6zyxml,"Replication Data for: A Replication of ""Representative Bureaucracy and the Willingness to Coproduce""",Martin Sievert
+10.7910/dvn/dtbwgp,Replication Data for `Divergent Perceptions of Peace in Post-Conflict Societies: Insights from Sri Lanka',Sabine C. Carey
+10.7910/dvn/vmslwf,Replication Data for: Political ambition and opposition legislative review: Bill scrutiny as an intra-party signalling device,Lion Behrens
+10.7910/dvn/ffuwsf,Replication Data for: Terrorism and Immigration Policy Preferences,Marc Helbling
+10.7910/dvn/nvkq5v,"Reproduction files for: The European refugee crisis, party competition, and voters’ responses in Germany",Matthias Mader
+10.7910/dvn/5jj6oe,"Replication Data for: Monetary Policy, Markup Dispersion, and Aggregate TFP",Matthias Meier; Timo Reinelt
+10.7910/dvn/kps1ky,Replication Data for: 'When the Whole is Greater Than the Sum of its Parts: On the Concept and Measurement of Populist Attitudes and Other Multi-dimensional Constructs',Alexander Wuttke; Christian Schimpf; Harald Schoen
+10.7910/dvn/y5y6vd,Replication Data for: 'Have Europeans Grown Tired of Democracy?',Alexander Wuttke; Gavras; Harald Schoen
+10.7910/dvn/1wzcea,Replication Data for: Discrete Choice Data with Unobserved Heterogeneity: A Conditional Binary Quantile Model,Xiao Lu
+10.7910/dvn/yzpgsv,Replication For: (How) Do Information Campaigns Influence Migration Decisions?,Sandra Morgenstern
+10.7910/dvn/cy7ywe,Replication Data for: The Wald Test of Common Factors in Spatial Model Specification Search Strategies,Sebastian Juhl
+10.7910/dvn/tmwjyl,Replication data for: Apples and Oranges? The Problem of Equivalence in Comparative Research,Daniel Stegmueller
+10.7910/dvn/ylbhax,Replication Data for: The Role of Topic Expertise for Interruption Behavior in Parliament - A Dyadic Approach,Julius Diener
+10.7910/dvn/v294kt,Replication Data for: Assessing the relative influence of party unity on vote choice: Evidence from a conjoint experiment,Roni Lehrer
+10.7910/dvn/gapiqo,Replication Data for: Wheeling and Dealing Behind Closed Doors: Estimating the Causal Effect of Transparency on Policy Evaluations Using a Survey Experiment,Sebastian Juhl; David Hilpert
+10.7910/dvn/csx1vl,Replication Data for: Comparative Politics and Causal Evaluation of Structural Reforms: The Case of the UK National Minimum Wage Introduction,Thomas König; Guido Ropers; Anika Buchmann
+10.7910/dvn/nhsjmj,Replication Data for: Backlash to Policy Decisions. How Citizens React to Immigrants’ Rights to Demonstrate,Richard Traunmueller
+10.7910/dvn/rcva0x,"Replication Data for: Numbers, Selectivity and Rights: The Conditional Nature of Immigration Policy Preferences",Marc Helbling; Rahsaan Maxwell; Richard Traunmueller
+10.7910/dvn/vjqkpq,Replication data for: Understanding Wordscores,Will Lowe
+10.7910/dvn/mycjsh,Replication Data for: 'Them' Without 'Us': Negative Identities and Affective Polarisation in Brazil,João Areal
+10.7910/dvn/fjxh5g,"Replication Data for ""How valid are trust survey measures? New insights from open-ended probing data and supervised machine learning""",Camille Landesvatter; Paul Cornelius Bauer
+10.7910/dvn/qwrvhb,Replication Data for: The Political Consequences of Wartime Sexual Violence. Evidence from a List Experiment,Belén González; Richard Traunmueller
+10.7910/dvn/rb9ch9,Government Agenda-Setting and Bicameral Conflict Resolution,David Fortunato; Thomas König; Sven‐Oliver Proksch
+10.7910/dvn/crouhh,Rules and Allies: Foreign Election Interventions,Johannes Bubeck; Nikolay Marinov
+10.7910/dvn/rkvwnc,Replication Data for: Forecasting Migration Movements using Prediction Markets,Oliver Strijbis; Sandra Morgenstern
+10.7910/dvn/xee99u,Replication Data for: Making Comprehensible Speeches When Your Constituents Need It,Nick Lin; Moritz Osnabrügge
+10.7910/dvn/22bgvu,Replication Data for: Die programmatischen Positionen der deutschen Parteien zur Bundestagswahl 2017: Ergebnisse einer Expertenbefragung,Thomas Bräuninger; Marc Debus; Jochen Müller; Christian Stecker
+10.7910/dvn/ootxiw,Replication Data for: Longitudinal Analyses of Gender Differences in First Authorship Publications Related to COVID-19,Marc Lerchenmueller
+10.7910/dvn/q2wlfs,Unpacking the effects of burdensome state actions on citizens’ policy perceptions,Martin Sievert; Jonas Bruder
+10.7910/dvn/spltli,Replication Data for: How a history of migration affects individuals' political attitudes,Noam Himmelrath; Marc Debus; Christian Stecker
+10.7910/dvn/by4obr,Replication Data for: Understanding Journalist Killings,Sabine C. Carey; Anita Gohdes
+10.7910/dvn/qnasjj,Reproduction files for: Party institutionalization and intra-party preference homogeneity,Matthias Mader; Nils D. Steiner
+10.7910/dvn/yg9cmf,Reproduction files for: The globalisation divide in the public mind: Belief systems on globalisation and their electoral consequences,Matthias Mader; Nils D. Steiner; Harald Schoen
+10.7910/dvn/tiumnc,Reproduction files for: Why is the AfD so successful in East Germany? An analysis of the ideational foundations of the AfD vote at the 2017 federal election,Matthias Mader; Maria Pesthy; Harald Schoen
+10.7910/dvn/1xgqf2,"Replication Data for: ""Using party press releases and Wikipedia page view data to analyse developments and determinants of parties’ issue prevalence: Evidence for the right-wing populist ‘Alternative for Germany’",Marc Debus; Christopher Florczak
+10.7910/dvn/zy3rv7,ParlEE plenary speeches data set: Annotated full-text of 21.6 million sentence-level plenary speeches of eight EU states,Christine Sylvester; Zachary Greene; Benedikt Ebing
+10.7910/dvn/khut6x,Replication Data for: Environmental Pollution and Authoritarian Politics,Carlo M. Horz; Moritz Marbach; Christoph Steinert
+10.7910/dvn/qzmpsn,Replication Data for: Learning at Home and Abroad: How Competition Conditions the Diffusion of Party Strategies,Sebastian Juhl; Laron Williams
+10.7910/dvn/lmrrzb,Replication Data for: Social group appeals in party rhetoric: Effects on policy support and polarization,Lena Maria Huber; Thomas M. Meyer; Markus Wagner
+10.7910/dvn/ycdjnt,Replication Data for: Divided We Unite: The Nature of Partyism and the Role of Coalition Partnership in Europe,Hyeonho Hahm; David Hilpert; Thomas König
+10.7910/dvn/mgm5qy,Replication Data for: The Gendered Costs of Stigma: How Experiences of Conflict-Related Sexual Violence Encourage Civic Engagement for Women and Men,Carlo Koos; Richard Traunmueller
+10.7910/dvn/u2591t,Replication Data for: The Gendered Costs of Stigma: How Experiences of Wartime Sexual Violence Encourage Civic Engagement for Women and Men,Carlo Koos; Richard Traunmüller
+10.7910/dvn/yhjucj,Replication Data for: Gender Differences In How Scientists Present The Importance Of Their Research,Marc Lerchenmueller
+10.7910/dvn/kqjl5k,"Replication Data for: Value Conflicts Revisited: Muslims, Gender Equality and Gestures of Respect",Elisabeth Ivarsflaten; Marc Helbling; Paul M. Sniderman; Richard Traunmüller
+10.7910/dvn/pls50o,"Replication material for ""Coalition Policy Perceptions""",Shaun Bowler; Thomas Gschwend; Indridi Indridason
+10.7910/dvn/yk8l4i,Pro-Government Militias Database 2.1,Sabine C. Carey; Neil J. Mitchell
+10.7910/dvn/oppc8v,Impacts of linking savings group to formal financial service providers and strengthening their internal group insurance mechanism in Zambia,Markus Frölich; Linh Thuy Thi Nguyen
+10.7910/dvn/98anea,"Replication Data for: ""Teacher Performance Pay and Student Learning: Evidence from a Nationwide Program in Peru”. Economic Development and Cultural Change",María Cristina Lombardi; Cristina Bellés‐Obrero
+10.7910/dvn/nsokzz,"Replication Data for: Populist Radical Parties, Pariahs, and Coalition Bargaining Delays",Marc Debus; Hanna Bäck; Michael Imre
+10.7910/dvn/gj0gai,Replication Data for: How Party Competition Shapes Ethnic Parties’ Positions on Migration and Immigration,Marc Debus; Felix Schulte
+10.7910/dvn/t2xfxg,Replication Data for: Candidate awareness in mixed-member electoral systems: A data-driven approach,Oliver Rittmann; Thomas Gschwend; Marie-Lou Sohnius
+10.7910/dvn/hvv0so,Replication Data for: Welche Auswirkungen haben größere Wahlkreise auf das politische Verhalten? Ein empirischer Beitrag zur Wahlrechtsreform,Oliver Rittmann; Marie-Lou Souhnius; Thomas Gcshwend
+10.7910/dvn/l3c3gf,"Supplemental materials for ""European public opinion: united in supporting Ukraine, divided on the future of NATO""",Felix Münchow; Matthias Mader; Catarina P. Thomson
+10.7910/dvn/3wilxi,Replication Data for: Simulating party shares,Chris Hanretty; Denis Cohen
+10.7910/dvn/mdhsxp,"Replication Data for: ""Scaling Court Decisions with Citation Networks""",Christian Arnold; Benjamin G. Engst; Thomas Gschwend
+10.7910/dvn/al0v9k,Replication data for: Foreign Anti-Mainstream Propaganda and Democratic Publics,Matthias Mader; Nikolay Marinov; Harald Schoen
+10.7910/dvn/mb2uku,Replication Data for: When Do Campaign Effects Persist for Years? Evidence from a Natural Experiment,Kai Jäger
+10.7910/dvn/uup8cx,The Crowdsourced Replication Initiative Participant Survey,Nate Breznau; Eike Mark Rinke; Alexander Wuttke
+10.7910/dvn/amdmmu,"Replication Data for ""Rebel Recruitment and Migration: Theory and Evidence From Southern Senegal""",Max Schaub; Daniel Auer
+10.7910/dvn/ony6wj,Replication Data for: Computing quantities of interest and their uncertainty using Bayesian simulation,Andreas Murr; Richard Traunmueller; Jeff Gill
+10.7910/dvn/qwpdqj,Replication data for: Validating estimates of latent traits from textual data using human judgement as a benchmark,Will Lowe; Kenneth Benoit
+10.7910/dvn/ldumny,Reproduction files for: Trust and cooperative behavior: Evidence from the realm of data-sharing,Paul Cornelius Bauer; Florian Keusch; Frauke Kreuter
+10.7910/dvn/vxp23s,Replication Data for: Party campaign statements and portfolio allocation in coalition governments,Thomas Däubler; Marc Debus; Alejandro Ecker
+10.7910/dvn/prxhpm,Replication Data for: How to Deal With Reverse Causality Using Panel Data? Recommendations for Researchers Based on a Simulation Study,Lars Leszczensky; Tobias Wolbring
+10.7910/dvn/ydk1zi,Replication Data for: Asymmetric Labor-Supply Responses to Wage Changes – Experimental Evidence from an Online Labor Market,Philipp Doerrenberg; Denvil Duncan; Max Löffler
+10.7910/dvn/gec2ls,Replication Data for: Eliciting Beliefs as Distributions in Online Surveys,Lucas Leemann; Richard Traunmueller; Lukas F. Stoetzer
+10.7910/dvn/jbogc9,Replication Code for: The Power of Mandatory Quality Disclosure: Evidence from the German Housing Market,Andreas Gerster; Manuel Frondel; Colin Vance
+10.7910/dvn/v5aoxd,"Replication Data for: Between Strategy and Protest: How Policy Demand, Political Dissatisfaction and Strategic Incentives Matter for Far Right Voting",Denis Cohen
+10.7910/dvn/wihaov,Reproduction Material for: Subjective Losers of Globalization,Nils D. Steiner; Matthias Mader; Harald Schoen
+10.7910/dvn/pgfoxw,Replication Data for: Why Underachievers Dominate Secret Police Organizations: Evidence from Autocratic Argentina,Adam Scharpf; Christian Gläßel
+10.7910/dvn/law8um,Replication Data for: Pro-Government Militias and Conflict,Sabine C. Carey; Neil J. Mitchell; Adam Scharpf
+10.7910/dvn/s6h88q,"Project ""White Vote""",Klara Dentler
+10.7910/dvn/wmvc4u,Replication Files for: The Long-Term Costs of Government Surveillance – Insights from Stasi Spying in East Germany,Andreas Lichter; Max Löffler; Sebastian Siegloch
+10.7910/dvn/zfw6tn,"Replication data for: The life, death and diversity of pro-government militias: The fully revised pro-government militias database version 2.0",Sabine C. Carey; Neil J. Mitchell; Katrin Paula
+10.7910/dvn/h6nxuh,"Replication Data for: 'Wealth of Two Nations: The U.S. Racial Wealth Gap, 1860-2020'",Ellora Derenoncourt; Chi Hyun Kim; Moritz Kuhn; Moritz Schularick
+10.7910/dvn/czljs6,Replication Data for Forecasting Bloc Support in German Federal Elections: A Political History Model,Stephen Quinlan; Dr Christian Schnaudt; Prof Michael S. Lewis-Beck
+10.7910/dvn/ofcaae,"Replication Data for: ""Agenda Control and Timing of Bill Initiation: A Temporal Perspective on Coalition Governance in Parliamentary Democracies""",Thomas König; Nick Lin; Xiao Lu; Thiago Silva; Nikoleta Yordanova; Galina Zudenkova
+10.7910/dvn/yny90h,Replication Data for: Who Settles Disputes? Treaty Design and Trade Attitudes Toward the Transatlantic Trade and Investment Partnership (TTIP),Hyeonho Hahm; Thomas König; Moritz Osnabrügge; Elena Frech
+10.7910/dvn/t2fzk3,Replication Data for: Illiberal Communication and Election Intervention During the Refugee Crisis in Germany,Ashrakat Elshehawy; Konstantin Gavras; Nikolay Marinov; Federico Nanni; Harald Schoen
+10.7910/dvn/bte2bk,Replication Data for: Risk Aversion and the Gender Gap in the Vote for Populist Radical Right Parties,Odelia Oshri; Liran Harsgor; Reut Itzkovitch‐Malka; Or Tuttnauer
+10.7910/dvn/wg8vck,"Replication Data for It's Not Only What You Say, It's Also How You Say It: The Strategic Use of Campaign Sentiment",Indridi Indridason; Charles Crabtree; Matt Golder; Thomas Gschwend
+10.7910/dvn/7qne9o,Replication data for: The Manifesto Project data extended to include the logit scales and standard errors,Will Lowe; Kenneth Benoit; Slava Mikhaylov; Michael Laver
+10.7910/dvn/wg9kvf,School Closures During the 1918 Pandemic,Peter Nencka; Ezra Karger; Kimmo Eriksson; Phillipp Ager; Melissia A. Thomasson
+10.7910/dvn/wutlh8,Replication Data for: How open lists undermine the electoral support of cohesive parties,Thomas Bräuninger; Thomas Däubler; Robert Huber; Lukas Rudolph
+10.7910/dvn/khzqa2,Replication Data for: Temporal Strategies,Christoph Garwe; Benjamin G. Engst; Yannick G. Stawicki; Christoph Hönnige
+10.7910/dvn/sm7lzk,Replication Data for: Das Potential offener Listen für die Wahl von Frauen zum Bundestag. Ergebnisse eines Survey-Experiments,Lukas Rudolph; Thomas Däubler; Jan Menzner
+10.7910/dvn/edtknw,Replication Data for: The Zweitstimme Model: A Dynamic Forecast of the 2021 German Federal Election,Marcel Neunhoeffer; Thomas Gschwend; Klara Müller; Simon Munzert; Lukas F. Stoetzer
+10.7910/dvn/gbwb8i,Replication Data for: Does Accommodation Work? Mainstream Party Strategies and the Success of Radical Right Parties,Werner Krause; Denis Cohen; Tarik Abou‐Chadi
+10.7910/dvn/t5lyws,Replication Data for: Temporary Disenfranchisement: Negative Side-Effects of Lowering the Voting Age,Arndt Leininger; Marie-Lou Sohnius; Thorsten Faas; Sigrid Roßteutscher; Armin Schäfer
+10.7910/dvn/pygbdo,Parliaments day-by-day,Tomas Turner‐Zwinkels; Oliver Huywler; Elena Frech; Philip Manow; Stefanie Bailer; Niels D. Goet; Simon Hug
+10.7910/dvn/46udei,Replication Data for: Comparative vote switching,Denis Cohen; Werner Krause; Tarik Abou‐Chadi
+10.7910/dvn/lzhtbe,"Replication Data for ""Grist to the Mill of Subversion: Strikes and Coups in Counterinsurgencies""",Adam Scharpf; Christian Gläßel; Belén González
+10.7910/dvn/cjuwrl,Replication Data for: A Large-Scale Field Experiment to Reduce Non-Payments for Water: From Diagnosis to Treatment,Bettina Rockenbach; Sebastian Tonke; Arne R. Weiss
+10.7910/dvn/lh8tgd,Replication Data for: Management Practices and Climate Policy in China,Yong Soo Keong; Ulrich J. Wagner; Peiyao Liu; Laure de Preux; Mirabelle Muûls; Ralf Martin; Jing Cao
