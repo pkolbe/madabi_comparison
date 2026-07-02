@@ -1,0 +1,3 @@
+pandas
+requests
+PyYAML>=6.0

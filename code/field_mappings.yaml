@@ -1,0 +1,33 @@
+# Per-source field mappings for harmonization (paths relative to code/).
+# Unified output schema: doi, title, creators, repository, repository_method
+# Missing values: empty string
+
+sources:
+  madabi:
+    input_candidates:
+      - ../data/raw/unified_mannheim_metadata.csv
+      - ../data/raw/unified_mannheim_metadata_cleaned.csv
+    output: ../data/processed/unified_mannheim_metadata_cleaned.csv
+    fields:
+      doi: [DOI, doi]
+      title: [Title, title]
+      creators: [Creators, creators]
+      repository: [Source, repository, Publisher]
+
+  openaire:
+    input: ../data/raw/openaire.csv
+    output: ../data/processed/openaire_cleaned.csv
+    fields:
+      doi: [DOI, doi]
+      title: [Title, title, mainTitle]
+      creators: [Creators, creators]
+      repository: [Publisher, publisher, Source]
+
+  openalex:
+    input: ../data/raw/openalex.csv
+    output: ../data/processed/openalex_cleaned.csv
+    fields:
+      doi: [DOI, doi]
+      title: [Title, title]
+      creators: [Creators, creators]
+      repository: [Publisher, publisher, Source]

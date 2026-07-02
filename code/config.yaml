@@ -1,0 +1,14 @@
+# Institution and API settings for harvest scripts.
+# Paths in field_mappings.yaml remain relative to the code/ directory.
+
+institution:
+  ror_id: "https://ror.org/031bsb921"
+
+openalex:
+  # Set OPENALEX_MAILTO in the environment when running openalex.py (recommended by OpenAlex).
+  per_page: 200
+  rate_limit_sleep_seconds: 0.2
+
+openaire:
+  page_size: 100
+  max_pages: 1000
